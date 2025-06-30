@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add custom base styles or component classes here if needed */
+body {
+  font-family: 'Inter', sans-serif; /* Example: A more modern sans-serif font */
+  /* Add other global styles if STAR SOLUTIONS has specific branding requirements */
+}
